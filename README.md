@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/kevinejiro/SIMS-EvenAndOdd.svg?branch=master)](https://travis-ci.org/kevinejiro/SIMS-EvenAndOdd)
 
 # SIMS-EvenAndOdd
 
